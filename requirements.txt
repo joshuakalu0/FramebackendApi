@@ -1,0 +1,7 @@
+
+Django==3.2.12
+django-cors-headers==4.3.1
+django-jazzmin==2.6.0
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+PyJWT==2.3.0
