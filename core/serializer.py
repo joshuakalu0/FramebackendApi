@@ -22,5 +22,5 @@ class MyTokenObtainPair(TokenObtainPairSerializer):
         fill token with desired values
         '''
         token = super().get_token(user)
-        token['gender'] = user.gender
+        # token['gender'] = user.gender
         return token
